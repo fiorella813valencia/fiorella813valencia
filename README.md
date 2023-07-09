@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.freeimages.com/images/large-previews/720/a-beautiful-sunrise-1307294.jpg" align="center" style="width: 100%" />
+<img src="https://images.freeimages.com/images/large-previews/720/a-beautiful-sunrise-1307294.jpg" align="center" style="width: 50%" />
 </div>
 
 # About Me:
