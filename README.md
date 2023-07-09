@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<img src="[https://i.imgur.com/kYaHQUD.gif](https://images.freeimages.com/images/large-previews/720/a-beautiful-sunrise-1307294.jpg)" align="center" style="width: 100%" />
+</div>
 
 # About Me:
 🎓Software Engineering Student | Backend Enthusiast | Data Science Enthusiast<br>💡I am currently studying Software Engineering at UPC in the 7th semester of my studies.<br>🌱I have proficiency in both front-end and back-end development, with a true passion for backend development. I also have a keen interest in exploring the field of data science.<br>⚡Focused on back-end development and highly interested in data science
