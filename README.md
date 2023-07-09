@@ -2,8 +2,8 @@
 <img src="https://images.freeimages.com/images/large-previews/720/a-beautiful-sunrise-1307294.jpg" align="center" style="width: 50%" />
 </div>
 
-### :
-Hi, I'm Fiorella Valencia 🎓Software Engineering Student | Backend Enthusiast | Data Science Enthusiast<br>💡I am currently studying Software Engineering at UPC in the 7th semester of my studies.<br>🌱I have proficiency in both front-end and back-end development, with a true passion for backend development. I also have a keen interest in exploring the field of data science.<br>⚡Focused on back-end development and highly interested in data science
+### Hi, I'm Fiorella Valencia
+🎓Software Engineering Student | Backend Enthusiast | Data Science Enthusiast<br>💡I am currently studying Software Engineering at UPC in the 7th semester of my studies.<br>🌱I have proficiency in both front-end and back-end development, with a true passion for backend development. I also have a keen interest in exploring the field of data science.<br>⚡Focused on back-end development and highly interested in data science
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fiohead) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiohead03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fiorella-valencia-rivera-a96832243/) 
